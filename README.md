@@ -1,0 +1,1 @@
+# Checking-installed-application-in-linux-using-cli
